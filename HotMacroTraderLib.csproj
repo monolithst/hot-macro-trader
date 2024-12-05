@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <LangVersion>latestmajor</LangVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>LibHmt</AssemblyName>
+        <RootNamespace>Hmt</RootNamespace>
+        <Company>Monolith</Company>
+        <Product>Hot Macro Trader Lib</Product>
+    </PropertyGroup>
+
+</Project>
